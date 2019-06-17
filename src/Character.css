@@ -1,0 +1,20 @@
+section.Character{
+   padding: 12pt;
+   text-align: center;
+   /* background-color: #41B3A3; */
+   background-color:#a8d1e7;
+   border-radius: 5px;
+}
+
+.Character h1{
+    /* font-size:18vw;  */
+    margin:0px;
+    color:#feffff;
+}
+
+
+/* @media only screen and (min-width: 768px) {
+    .Character h1{
+        font-size: 6vw;
+    }
+} */

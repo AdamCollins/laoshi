@@ -1,0 +1,33 @@
+
+section.AnswerInput{
+    padding:6pt 0;
+}
+
+input:focus{
+    outline-color:  #a8d1e7;
+    -moz-outline-radius: 5px;
+}
+
+.AnswerInput label{
+    font-weight:bold;
+    margin-top:5pt;
+}
+
+input:invalid {
+    box-shadow: none;
+}
+
+.AnswerInput span.tip {
+    color:#8dec7a;
+}
+
+.valid{
+    border: 1px solid green !important;
+    outline-color:  green;
+}
+
+.invalid{
+    border: 1px solid red !important;
+    outline-color:  red;
+
+}

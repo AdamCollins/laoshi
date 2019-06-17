@@ -1,0 +1,101 @@
+[{
+    "character": "不",
+    "pinyin": ["bù", "bu"],
+    "english": ["no"]
+},
+{
+    "character": "北京",
+    "pinyin": ["běijīng", "beijing"],
+    "english": ["beijing"]
+},
+{
+    "character": "怎么样",
+    "pinyin": ["zěnmeyàng", "zenmeyang"],
+    "english": ["how"]
+},
+{
+    "character": "爱",
+    "pinyin": ["ài", "ai"],
+    "english": ["love"]
+},
+{
+    "character": "爸爸",
+    "pinyin": ["bàba", "baba"],
+    "english": ["dad", "daddy"]
+},
+{
+    "character": "杯子",
+    "pinyin": ["bēizi", "beizi"],
+    "english": ["cup"]
+},
+{
+    "character": "请问",
+    "pinyin": ["qǐngwèn", "qingwen"],
+    "english": ["excue me"]
+},
+{
+    "character": "请帮助",
+    "pinyin": ["qǐng bāngzhù", "qing bangzhu"],
+    "english": ["please help"]
+},
+{
+    "character": "咖啡",
+    "pinyin": ["kāfēi","kafei"],
+    "english": ["coffee"]
+},
+{
+    "character": "读",
+    "pinyin": ["dú","du"],
+    "english": ["read", "reading"]
+},
+{
+    "character": "写作",
+    "pinyin": ["xiězuò", "xiezuo"],
+    "english": ["writting"]
+},
+{
+    "character": "电影",
+    "pinyin": ["diànyǐng", "dianying"],
+    "english": ["movie"]
+},
+{
+    "character": "学校",
+    "pinyin": ["xuéxiào", "xuexiao"],
+    "english": ["school"]
+},
+{
+    "character": "学习",
+    "pinyin": ["xuéxí", "xuexi"],
+    "english": ["study","learn"]
+},
+{
+    "character": "美丽",
+    "pinyin": ["měilì", "meili"],
+    "english": ["beautiful", "pretty"]
+},
+{
+    "character": "没关系",
+    "pinyin": ["méiguānxì", "meiguanxi"],
+    "english": ["no problem", "dont mention it", "its okay","it's okay","you are welcome"]
+},
+{
+    "character": "秋天",
+    "pinyin": ["qiūtiān", "qiutian"],
+    "english": ["fall", "autumn", "fall time", "autumn time"]
+},
+{
+    "character": "春天",
+    "pinyin": ["chūntiān", "chuntian"],
+    "english": ["sprint", "spring time"]
+},
+{
+    "character": "夏天",
+    "pinyin": ["xiàtiān", "xiatian"],
+    "english": ["summer", "summer time"]
+},
+{
+    "character": "冬天",
+    "pinyin": ["dōngtiān", "dongtian"],
+    "english": ["winter", "winter time"]
+}
+]

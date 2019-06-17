@@ -1,0 +1,24 @@
+ul.Navbar{
+    margin-top: 0;
+    padding: 10px 20px;
+    background-color:#f76d6d; 
+    list-style-type: none;
+    box-shadow: 0 0 3px #000000;
+}
+
+.Navbar li, a, a:visited {
+    margin: 0;
+    padding: 0px;
+    color:#fff;
+    font-weight: bold;
+    font-size:18pt;
+    text-decoration: none;
+    display: inline;
+}
+.Navbar li.badge{
+    float: right;
+}
+
+.Navbar .brand{
+    text-shadow: 0 1px 2px #000000;
+}
