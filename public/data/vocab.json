@@ -51,7 +51,7 @@
 {
     "character": "写作",
     "pinyin": ["xiězuò", "xiezuo"],
-    "english": ["writting"]
+    "english": ["writing"]
 },
 {
     "character": "电影",
@@ -125,7 +125,7 @@
 },
 {
     "character": "医院",
-    "pinyin": ["yīyuàn", "yinyuan"],
+    "pinyin": ["yīyuàn", "yiyuan"],
     "english": ["hospital"]
 },
 {
@@ -231,7 +231,7 @@
 {
     "character": "饭馆",
     "pinyin": ["fànguǎn", "fanguan"],
-    "english": ["resturant"]
+    "english": ["restaurant"]
 },
 {
     "character": "飞机",
