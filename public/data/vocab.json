@@ -31,11 +31,11 @@
 {
     "character": "请问",
     "pinyin": ["qǐngwèn", "qingwen"],
-    "english": ["excue me"]
+    "english": ["excuse me"]
 },
 {
     "character": "请帮助",
-    "pinyin": ["qǐng bāngzhù", "qing bangzhu"],
+    "pinyin": ["qǐngbāngzhù", "qing bangzhu"],
     "english": ["please help"]
 },
 {
@@ -76,7 +76,7 @@
 {
     "character": "没关系",
     "pinyin": ["méiguānxì", "meiguanxi"],
-    "english": ["no problem", "dont mention it", "its okay","it's okay","you are welcome"]
+    "english": ["no problem", "no worries", "dont mention it", "its okay","it's okay","you are welcome"]
 },
 {
     "character": "秋天",
@@ -86,7 +86,7 @@
 {
     "character": "春天",
     "pinyin": ["chūntiān", "chuntian"],
-    "english": ["sprint", "spring time"]
+    "english": ["spring", "spring time"]
 },
 {
     "character": "夏天",
@@ -97,5 +97,340 @@
     "character": "冬天",
     "pinyin": ["dōngtiān", "dongtian"],
     "english": ["winter", "winter time"]
+},
+{
+    "character": "大自然",
+    "pinyin": ["dà zìrán", "da ziran"],
+    "english": ["nature", "big nature"]
+},
+{
+    "character": "再一次",
+    "pinyin": ["zài yīcì", "zai yici"],
+    "english": ["one more time", "once more"]
+},
+{
+    "character": "问题",
+    "pinyin": ["wèntí", "wenti"],
+    "english": ["question"]
+},
+{
+    "character": "有趣",
+    "pinyin": ["yǒuqù", "youqu"],
+    "english": ["interesting", "fascinating"]
+},
+{
+    "character": "最近",
+    "pinyin": ["zuìjìn", "zuijin"],
+    "english": ["recently", "lately"]
+},
+{
+    "character": "医院",
+    "pinyin": ["yīyuàn", "yinyuan"],
+    "english": ["hospital"]
+},
+{
+    "character": "最近",
+    "pinyin": ["zuìjìn", "zuijin"],
+    "english": ["recently", "lately"]
+},
+{
+    "character": "最近",
+    "pinyin": ["zuìjìn", "zuijin"],
+    "english": ["recently", "lately"]
+},
+{
+    "character": "最近",
+    "pinyin": ["zuìjìn", "zuijin"],
+    "english": ["recently", "lately"]
+},{
+    "character": "菜",
+    "pinyin": ["cài", "cai"],
+    "english": ["vegetable", "vegetables", "dish"]
+},
+{
+    "character": "茶",
+    "pinyin": ["chá", "cha"],
+    "english": ["tea"]
+},
+{
+    "character": "吃",
+    "pinyin": ["chī", "chi"],
+    "english": ["eat"]
+},
+{
+    "character": "出租车",
+    "pinyin": ["chūzūchē", "chuzuche"],
+    "english": ["taxi"]
+},
+{
+    "character": "打电话",
+    "pinyin": ["dǎdiànhuà", "dadianhua"],
+    "english": ["call up", "to call"]
+},
+{
+    "character": "大",
+    "pinyin": ["dà", "da"],
+    "english": ["big"]
+},
+
+{
+    "character": "点",
+    "pinyin": ["diǎn", "dian"],
+    "english": [""]
+},
+{
+    "character": "电脑",
+    "pinyin": ["diànnǎo", "diannao"],
+    "english": ["computer"]
+},
+{
+    "character": "电视",
+    "pinyin": ["diànshì", "dianshi"],
+    "english": ["television", "tv"]
+},
+{
+    "character": "电影",
+    "pinyin": ["diànyǐng", "dianying"],
+    "english": ["movie", "film"]
+},
+{
+    "character": "东西",
+    "pinyin": ["dōngxi", "dongxi"],
+    "english": ["thing"]
+},
+{
+    "character": "都",
+    "pinyin": ["dōu", "dou"],
+    "english": ["all"]
+},
+{
+    "character": "对不起",
+    "pinyin": ["duìbuqǐ", "duibuqi"],
+    "english": ["sorry", "i am sorry", "im sorry"]
+},
+{
+    "character": "多",
+    "pinyin": ["duō", "duo"],
+    "english": ["many", "much"]
+},
+{
+    "character": "多少",
+    "pinyin": ["duōshao", "duoshao"],
+    "english": ["how many", "how much"]
+},
+{
+    "character": "儿子",
+    "pinyin": ["érzi", "erzi"],
+    "english": ["son"]
+},
+{
+    "character": "二",
+    "pinyin": ["èr", "er"],
+    "english": ["two", "2"]
+},
+{
+    "character": "饭馆",
+    "pinyin": ["fànguǎn", "fanguan"],
+    "english": ["resturant"]
+},
+{
+    "character": "飞机",
+    "pinyin": ["fēijī", "feiji"],
+    "english": ["airplane", "plane"]
+},
+{
+    "character": "分钟",
+    "pinyin": ["fēnzhōng", "fenzhong"],
+    "english": ["minute"]
+},
+{
+    "character": "高兴",
+    "pinyin": ["gāoxìng", "gaoxing"],
+    "english": ["happy"]
+},
+{
+    "character": "工作",
+    "pinyin": ["gōngzuò", "gongzuo"],
+    "english": ["work"]
+},
+{
+    "character": "狗",
+    "pinyin": ["gǒu", "gou"],
+    "english": ["dog"]
+},
+{
+    "character": "好",
+    "pinyin": ["hǎo", "hao"],
+    "english": ["good"]
+},
+{
+    "character": "喝",
+    "pinyin": ["hē", "he"],
+    "english": ["drink"]
+},
+{
+    "character": "和",
+    "pinyin": ["hé", "he"],
+    "english": ["and"]
+},
+{
+    "character": "很",
+    "pinyin": ["hěn", "hen"],
+    "english": ["very"]
+},
+{
+    "character": "后面",
+    "pinyin": ["hòumiàn", "houmian"],
+    "english": ["behind"]
+},
+{
+    "character": "回",
+    "pinyin": ["huí", "hui"],
+    "english": ["return"]
+},
+{
+    "character": "会",
+    "pinyin": ["huì", "hui"],
+    "english": ["can", "will"]
+},
+{
+    "character": "火车站",
+    "pinyin": ["huǒchēzhàn", "huochezhan"],
+    "english": ["train station"]
+},
+{
+    "character": "家",
+    "pinyin": ["jiā", "jia"],
+    "english": ["home"]
+},
+{
+    "character": "叫",
+    "pinyin": ["jiào", "jiao"],
+    "english": ["call", "called"]
+},
+{
+    "character": "今天",
+    "pinyin": ["jīntiān", "jintian"],
+    "english": ["today"]
+},
+{
+    "character": "九",
+    "pinyin": ["jiǔ", "jiu"],
+    "english": ["nine", 9]
+},
+{
+    "character": "开",
+    "pinyin": ["kāi", "kai"],
+    "english": ["open"]
+},
+{
+    "character": "看",
+    "pinyin": ["kàn", "kan"],
+    "english": ["look"]
+},
+{
+    "character": "看见",
+    "pinyin": ["kànjiàn", "kanjian"],
+    "english": ["see"]
+},
+{
+    "character": "块",
+    "pinyin": ["kuài", "kuai"],
+    "english": ["fast", "quick", "yuen"]
+},
+{
+    "character": "来",
+    "pinyin": ["lái", "lai"],
+    "english": ["come"]
+},
+{
+    "character": "老师",
+    "pinyin": ["lǎoshī", "laoshi"],
+    "english": ["teacher"]
+},
+{
+    "character": "冷",
+    "pinyin": ["lěng", "leng"],
+    "english": ["cold"]
+},
+{
+    "character": "零",
+    "pinyin": ["líng", "ling"],
+    "english": ["zero", 0]
+},
+{
+    "character": "六",
+    "pinyin": ["liù", "liu"],
+    "english": ["six", 6]
+},
+{
+    "character": "妈妈",
+    "pinyin": ["māma", "mama"],
+    "english": ["mom", "mum", "mommy"]
+},
+{
+    "character": "买",
+    "pinyin": ["mǎi", "mai"],
+    "english": ["buy"]
+},
+{
+    "character": "猫",
+    "pinyin": ["māo", "mao"],
+    "english": ["cat"]
+},
+{
+    "character": "没",
+    "pinyin": ["méi", "mei"],
+    "english": ["no"]
+},
+{
+    "character": "米饭",
+    "pinyin": ["mǐfàn", "mifan"],
+    "english": ["rice"]
+},
+{
+    "character": "明天",
+    "pinyin": ["míngtiān", "mingtian"],
+    "english": ["tomorrow"]
+},
+{
+    "character": "名字",
+    "pinyin": ["míngzi", "mingzi"],
+    "english": ["name", "first name", "given name"]
+},
+{
+    "character": "哪（儿）",
+    "pinyin": ["nǎ", "na","nǎr","nar"],
+    "english": ["where"]
+},
+{
+    "character": "那（儿）",
+    "pinyin": ["nà", "na","nàr", "nar"],
+    "english": ["there"]
+},
+{
+    "character": "能",
+    "pinyin": ["néng", "neng"],
+    "english": [""]
+},
+{
+    "character": "你",
+    "pinyin": ["nǐ", "ni"],
+    "english": [""]
+},
+{
+    "character": "年",
+    "pinyin": ["nián", "nian"],
+    "english": [""]
+},
+{
+    "character": "女儿",
+    "pinyin": ["nǚ'ér", "nu'er"],
+    "english": ["daughter"]
+},
+{
+    "character": "朋友",
+    "pinyin": ["péngyou", "pengyou"],
+    "english": ["friend"]
 }
 ]

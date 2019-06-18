@@ -4,12 +4,13 @@ import './index.css';
 import Card from './Card';
 import Navbar from './Navbar'
 import * as serviceWorker from './serviceWorker';
+// import shuffle from 'lodash';
 
 
 class Index extends React.Component{
     state = {
         loading:true,
-        cards:[]
+        cards: null
     }
     
     nextCard = ()=>{
@@ -18,19 +19,23 @@ class Index extends React.Component{
             );
     }
     componentDidMount(){
-        this.setState({loading:true});
+        let shuffle = (array) => array.sort(() => Math.random() - 0.5);
         fetch('data/vocab.json')
             .then(data=>data.json())
-            .then(cards => this.setState({cards, loading:false, index:Math.floor(Math.random()*cards.length)}))
+            // .then(data=>shuffle(data))
+            .then(cards => this.setState({cards:shuffle(cards), loading:false, index:Math.floor(Math.random()*cards.length)}))
+
     }
     render(){
+        if(!this.state.cards){
+            console.log('loading...', this.state.cards);
+            return '...'
+        }
+        console.log("rendering", this.state.cards)
         return(
             <div>
                 <Navbar brand="老师."/>
-                {this.state.loading
-                ?'...'
-                :<Card card={this.state.cards[this.state.index]} nextCard={this.nextCard}/>
-                }
+                <Card card={this.state.cards[this.state.index]} nextCard={this.nextCard}/>
             </div>
         )
     }
